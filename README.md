@@ -1,2 +1,2 @@
 # py4web-showcase
-List of beautiful apps build with py4web
+List of beautiful apps built with py4web
